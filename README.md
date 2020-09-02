@@ -32,10 +32,11 @@ To be decided.
 
 #### Location
 
-| URL | Signature file URL | Explanation |
-| `https://example.com/` | `https://example.com/.sig` | The signature for a directory path is expected to be in a file with no name, just the `.sig` extension. |
-| `https://example.com/directory/` | `https://example.com/directory/.sig` | Same as above. |
-| `https://example.com/index.html` | `https://example.com/index.html.sig` | For any other files, `.sig` is appended to the file name. |
+| URL                              | Signature file URL                   | Explanation                                                                                             |
+| -------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| `https://example.com/`           | `https://example.com/.sig`           | The signature for a directory path is expected to be in a file with no name, just the `.sig` extension. |
+| `https://example.com/directory/` | `https://example.com/directory/.sig` | Same as above.                                                                                          |
+| `https://example.com/index.html` | `https://example.com/index.html.sig` | For any other files, `.sig` is appended to the file name.                                               |
 
 #### Format
 

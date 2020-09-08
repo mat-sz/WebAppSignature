@@ -26,6 +26,12 @@ Since a HTML document is usually the entry point to any given web application, I
 
 ### Public key file location and format
 
+#### Location
+
+`https://example.com/.well-known/webappsignature.pub` - there may be only one public key per a given domain (each subdomain can have its own key).
+
+#### Format
+
 To be decided.
 
 ### Signature file location and format

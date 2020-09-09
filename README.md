@@ -50,4 +50,4 @@ To be decided.
 
 ## Example implementation
 
-A Chrome extension is currently under development.
+A Chrome extension is currently under development in the [WebAppSignatureExtension](https://github.com/mat-sz/WebAppSignatureExtension) repository.
